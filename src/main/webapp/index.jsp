@@ -1,6 +1,6 @@
 <html>
 <body>
-<h2>Bamboo....</h2>
+<h2>Jenkins....</h2>
 <button>login</button>
 <button>Create account</button>
 </body>
