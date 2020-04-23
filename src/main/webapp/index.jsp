@@ -1,6 +1,7 @@
 <html>
 <body>
-<h2>App is deployed using bamboo....</h2>
+<h2>Bamboo....</h2>
 <button>login</button>
+<button>Create account</button>
 </body>
 </html>

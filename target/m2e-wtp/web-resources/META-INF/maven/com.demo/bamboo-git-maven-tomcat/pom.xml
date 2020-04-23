@@ -6,7 +6,7 @@
 
   <groupId>com.demo</groupId>
   <artifactId>bamboo-git-maven-tomcat</artifactId>
-  <version>0.0.1-SNAPSHOT</version>
+  <version>3.0</version>
   <packaging>war</packaging>
 
   <name>bamboo-git-maven-tomcat Maven Webapp</name>
